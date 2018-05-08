@@ -1,0 +1,118 @@
+
+Peasant.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Peasant Sprite/Peasant_0000_1
+  rotate: false
+  xy: 2, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0001_2
+  rotate: false
+  xy: 2, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0002_3
+  rotate: false
+  xy: 161, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0003_4
+  rotate: false
+  xy: 2, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0004_5
+  rotate: false
+  xy: 161, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0005_Frame-12
+  rotate: false
+  xy: 320, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0006_6
+  rotate: false
+  xy: 161, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0007_7
+  rotate: false
+  xy: 320, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0008_8
+  rotate: false
+  xy: 479, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0009_9
+  rotate: false
+  xy: 320, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0010_1
+  rotate: false
+  xy: 479, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0011_2
+  rotate: false
+  xy: 638, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0012_3
+  rotate: false
+  xy: 479, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0013_4
+  rotate: false
+  xy: 638, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0014_5
+  rotate: false
+  xy: 797, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0015_0
+  rotate: false
+  xy: 638, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,138 @@
+
+Peasant.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Peasant Sprite/Blood
+  rotate: false
+  xy: 2, 2
+  size: 284, 175
+  orig: 284, 175
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0000_1
+  rotate: false
+  xy: 288, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_00016_0
+  rotate: false
+  xy: 574, 2
+  size: 284, 175
+  orig: 284, 175
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0001_2
+  rotate: false
+  xy: 2, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0002_3
+  rotate: false
+  xy: 288, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0003_4
+  rotate: false
+  xy: 574, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0004_5
+  rotate: false
+  xy: 2, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0005_Frame-12
+  rotate: false
+  xy: 288, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0006_6
+  rotate: false
+  xy: 574, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+
+Peasant2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Peasant Sprite/Peasant_0007_7
+  rotate: false
+  xy: 2, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0008_8
+  rotate: false
+  xy: 288, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0009_9
+  rotate: false
+  xy: 574, 2
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0010_1
+  rotate: false
+  xy: 2, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0011_2
+  rotate: false
+  xy: 288, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0012_3
+  rotate: false
+  xy: 574, 340
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0013_4
+  rotate: false
+  xy: 2, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0014_5
+  rotate: false
+  xy: 288, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1
+Peasant Sprite/Peasant_0015_0
+  rotate: false
+  xy: 574, 678
+  size: 157, 336
+  orig: 157, 336
+  offset: 0, 0
+  index: -1

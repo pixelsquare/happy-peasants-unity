@@ -1,0 +1,13 @@
+
+Shiny.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-8 copy
+  rotate: false
+  xy: 2, 2
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1

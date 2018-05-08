@@ -1,0 +1,13 @@
+
+KingMenu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KingMenu
+  rotate: false
+  xy: 2, 286
+  size: 834, 550
+  orig: 834, 550
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+King.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+King Sprite/Fan/K_Fan (1)
+  rotate: false
+  xy: 2, 772
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Fan/K_Fan (2)
+  rotate: false
+  xy: 2, 521
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Fan/K_Fan (3)
+  rotate: false
+  xy: 387, 772
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Scratch/K_Scratch (1)
+  rotate: false
+  xy: 2, 270
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Scratch/K_Scratch (2)
+  rotate: false
+  xy: 387, 521
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Scratch/K_Scratch (3)
+  rotate: true
+  xy: 772, 638
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
+King Sprite/Scratch/K_Scratch (4)
+  rotate: false
+  xy: 2, 19
+  size: 383, 249
+  orig: 383, 249
+  offset: 0, 0
+  index: -1
