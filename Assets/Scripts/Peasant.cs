@@ -120,6 +120,13 @@ public class Peasant : TouchInput
 
 				if(m_touchCounter < m_touchesToBow)
 				{
+					PeasantManager.s_touchCounter++;
+
+					EventParameters param = new EventParameters();
+					param.addParam(EventNames.CURRENT_SCORE, PeasantManager.s_touchCounter);
+					param.addParam(EventNames.CURRENT_GOAL, PeasantManager.s_touchGoal);
+					EventBroadcaster.Instance.notifyObservers(EventNames.ON_SCORE_CHANGED, param);
+
 					GameObject floatingTextObj2 = Instantiate(m_floatingText.gameObject) as GameObject;
 					Transform floatingTextT2 = floatingTextObj2.transform;
 					floatingTextT2.position = transform.position + (Vector3.up * 150.0f);
